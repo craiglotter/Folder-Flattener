@@ -1,4 +1,14 @@
-Folder-Flattener
+Folder Flattener
 ================
 
-Folder Flattener attempts to flatten deep folder structures by moving all files contained within sub folders into the base folder for the specified path. It recursively moves all files located in subfolder to the base folder (prefixing the subfolder name to the file name). Duplicate filenames created are suffixed with a random number to distinguish files.  Created by Craig Lotter, November 2005
+Folder Flattener attempts to flatten deep folder structures by moving all files contained within sub folders into the base folder for the specified path. It recursively moves all files located in subfolder to the base folder (prefixing the subfolder name to the file name). Duplicate filenames created are suffixed with a random number to distinguish files.
+
+Created by Craig Lotter, November 2005
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2003
+Implements concepts such as threading, file manipulation and recursive programming.
+Level of Complexity: simple
