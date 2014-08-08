@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Folder Flattener">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Folder Flattener.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Folder Flattener.suo">
+</Property><Property Name="Date" Value="23 May 2006">
+</Property><Property Name="Time" Value="11:41 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Folder Flattener.sln" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Folder Flattener.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Folder Flattener.suo" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Folder Flattener.suo">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Folder Flattener.vbproj" Description="Project file successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Folder Flattener.vbproj">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Folder Flattener.vbproj.user" Description="Project user file successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Folder Flattener.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Display_Message.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Display_Message.vb">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Main_Screen.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Main_Screen.vb">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Splash_Screen.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Splash_Screen.vb">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Startup_Module.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Startup_Module.vb">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Worker.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Worker.vb">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="app.config" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Application_Icon.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Application_Icon.ico">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Display_Message.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Display_Message.resx">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Main_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Main_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Splash_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Splash_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Worker.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Folder Flattener - 9 November 2005\Source Code\Folder Flattener\Backup\Worker.resx">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="Folder Flattener.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Folder Flattener" Source="Folder Flattener.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Folder Flattener.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Folder Flattener.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Folder Flattener" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Folder Flattener" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
